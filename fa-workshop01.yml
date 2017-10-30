@@ -1,0 +1,73 @@
+name: aind-cv
+channels:
+- menpo
+- defaults
+dependencies:
+- ca-certificates=2017.08.26=ha1e5d58_0
+- certifi=2017.7.27.1=py35h0fdde5e_0
+- hdf5=1.8.18=h1edb405_0
+- intel-openmp=2018.0.0=hdd0ccc9_7
+- jupylibcxx=4.0.1=h579ed51_0
+- libcxxabi=4.0.1=hebd6815_0
+- libedit=3.1=hb4e282d_0
+- libffi=3.2.1=hd939716_3
+- libgfortran=3.0.1=h93005f0_2
+- mkl=2018.0.0=hc285769_4
+- ncurses=6.0=ha932d30_1
+- numpy=1.13.1=py35he58e7f4_2
+- openssl=1.0.2l=h57f3a61_2
+- pip=9.0.1=py35he52dd69_3
+- python=3.5.4=he1de2d4_12
+- readline=7.0=h81b24a6_3
+- setuptools=36.5.0=py35h52cde6a_0
+- sqlite=3.20.1=h900c3b0_1
+- tk=8.6.7=hcdce994_1
+- wheel=0.29.0=py35ha7aa5c4_1
+- xz=5.2.3=ha24016e_1
+- zlib=1.2.11=h60db283_1
+- opencv3=3.1.0=py35_0
+- tbb=4.3_20141023=0
+- pip:
+  - appnope==0.1.0
+  - bleach==1.5.0
+  - cycler==0.10.0
+  - decorator==4.1.2
+  - h5py==2.7.1
+  - html5lib==0.9999999
+  - ipykernel==4.6.1
+  - ipython==6.2.0
+  - ipython-genutils==0.2.0
+  - jedi==0.11.0
+  - jupyter-client==5.1.0
+  - jupyter-core==4.3.0
+  - keras==2.0.8
+  - markdown==2.6.9
+  - matplotlib==2.0.0
+  - olefile==0.44
+  - pandas==0.20.3
+  - parso==0.1.0
+  - pexpect==4.2.1
+  - pickleshare==0.7.4
+  - pillow==4.0.0
+  - prompt-toolkit==1.0.15
+  - protobuf==3.4.0
+  - ptyprocess==0.5.2
+  - pygments==2.2.0
+  - pyparsing==2.2.0
+  - python-dateutil==2.6.1
+  - pytz==2017.2
+  - pyyaml==3.12
+  - pyzmq==16.0.2
+  - scikit-learn==0.19.0
+  - scipy==0.19.1
+  - simplegeneric==0.8.1
+  - six==1.11.0
+  - sklearn==0.0
+  - tensorflow==1.3.0
+  - tensorflow-tensorboard==0.1.7
+  - tornado==4.5.2
+  - traitlets==4.3.2
+  - wcwidth==0.1.7
+  - werkzeug==0.12.2
+prefix: /Users/juan/anaconda/envs/aind-cv
+

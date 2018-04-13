@@ -12,7 +12,7 @@ Para aquellos que quieran montarlo en su máquina local pueden seguir las instru
 ## Cómo lanzar el proyecto
 1. Clonar en tu máquina el repositorio
 2. Instalar conda (gestor de paquetes cientificos de Python). Con la instalación de Conda vendrá Jupyter también.
-3. Instalar con Conda el entorno virtual de Python extraído en el fichero fa-workshop01.yml
+3. Instalar con Conda el entorno virtual de Python extraído en el fichero fa-workshop01.yml. Se han detectado algunos issues con algunas versiones de OS. Está extraido de un MacOS. La instalación en otros OS no debería ser problema instalando una a una las dependencias antes de correr el notebook.
 4. Establecer Tensorflow como el backend de Keras con el siguiente comando. 
 
     ```set KERAS_BACKEND=tensorflow``` para Windows
@@ -32,5 +32,7 @@ Para aquellos que quieran montarlo en su máquina local pueden seguir las instru
 ## Autores
 
 **Juan Aguilar** - [AguilarGuisado](https://github.com/aguilarguisado)
+
+Udacity attribution as the original creators of this project in their full AI Nanodegree program.
 
 Todo el código es libre de ser distribuido y modificado bajo la licencia Apache v2.0
